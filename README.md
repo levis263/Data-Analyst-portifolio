@@ -1,1 +1,1 @@
-# Data-Analyst-Portifolio
+SQL, Python, and Power BI learning portfolio
